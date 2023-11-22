@@ -3,6 +3,6 @@ opencv-python-headless
 numpy
 matplotlib
 boto3
-tensorflow
-keras
+tensorflow==2.14.0
+keras==2.14.0
 
